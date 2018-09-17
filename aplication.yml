@@ -1,0 +1,3 @@
+configserver:
+    name: Docker Consul Service
+    status: test
